@@ -1,7 +1,4 @@
 # 👨‍💻 Doyoung Ham
-
-## _Android Developer📱_
-
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onxmoreplz)](https://github.com/anuraghazra/github-readme-stats)
   
