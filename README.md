@@ -3,7 +3,8 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onxmoreplz&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onxmoreplz&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onxmoreplz&theme=default)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onxmoreplz)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onxmoreplz&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onxmoreplz&theme=default&utcOffset=8)
   
   
   ## 퍼블리싱
