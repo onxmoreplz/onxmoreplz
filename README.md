@@ -1,21 +1,17 @@
-<!-- # 👨‍💻 "기본기"에 진심인 개발자 함도영입니다. -->
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onxmoreplz&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onxmoreplz&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onxmoreplz&theme=default)
-  
-  
-  ## 퍼블리싱
-  https://play.google.com/store/apps/details?id=com.googleplay.yorijori
-       
-  
-  
-  
-  <!--
-  ## 경력
-  | 기 간 | 내용 |
-  | ------ | ------ |
-  | 2019 ~ | 공군 |
-  |  |  |
-  -->
+ 
+### Android Developer
+"AI와 함께 성장하며, 모바일 프로그래밍의 경계를 넓힙니다."   
+AI 를 단순한 도구를 넘어 최고의 페어 프로그래머로 활용하며, 효율적인 아키텍처 설계와 사용자 경험 고도화에 집중합니다.
 
+---
+
+###  Tech Stack
+- **Architecture:** MVI, Multi-module, Clean Architecture
+- **Language & UI:** Kotlin, Jetpack Compose
+- **Core Tech:** Coroutines, Flow, Hilt, Retrofit2
+
+---
+
+### Contact
+-  **Email:** hamdoyoung95@gmail.com
+-  **Coffee Chat:** AI를 활용한 생산성 향상과 안드로이드의 미래에 대해 이야기 나누는 것을 환영합니다.
